@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie", A&E
-http://pdsrv.io:25461/listapass/123456789/8139
+https://www.googleapis.com/drive/v3/1c7bL0gxS6tr9FBgBAs_HP2pUbab4-ZG-/?alt=media&key=AIzaSyAISIup0qaPNd_DhjPLl2l4ju7e2J0pqn8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie", A&E HD*
 http://canais.servidor.tv:8080/san/san123/375
