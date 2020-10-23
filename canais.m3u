@@ -336,7 +336,7 @@ http://canais.servidor.tv:8080/san/san123/148
 http://canais.servidor.tv:8080/san/san123/1513
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta", RedeTV!
-http://canais.servidor.tv:8080/san/san123/136	
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1100072644_b1126149_DVR.m3u8	
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta", SBT
 http://canais.servidor.tv:8080/san/san123/1512
